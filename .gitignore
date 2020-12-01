@@ -1,0 +1,4 @@
+*.zip
+**/.ipynb_checkpoints
+**/horse-or-human/
+**/validation-horse-or-human/
